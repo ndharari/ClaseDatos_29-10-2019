@@ -1,2 +1,2 @@
-jupyter contrib nbextension install --user
+conda install -c conda-forge jupyter_contrib_nbextensions
 jupyter nbextension enable splitcell/splitcell
