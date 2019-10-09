@@ -1,0 +1,9 @@
+name: DataAnalysis
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - plotnine
+  - altair
+  - matplotlib
